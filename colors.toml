@@ -1,0 +1,58 @@
+# Falcon Day — mid-tone dusk slate for the brighter SpaceX photos.
+# Dark-mode UI, but lifted well above Falcon Night; Aether-derived sky/flame hues.
+mode = "dark"
+
+accent = "#e8b080"
+cursor = "#f3eadf"
+selection = "#40566a"
+selection_foreground = "#f3eadf"
+selection_background = "#40566a"
+muted = "#adbccc"
+
+background = "#35485c"
+dark_background = "#2b3d50"
+darker_background = "#223243"
+lighter_background = "#40566a"
+
+foreground = "#f3eadf"
+dark_foreground = "#d0c2b3"
+light_foreground = "#f7f0e8"
+bright_foreground = "#ffffff"
+
+red = "#f1ac9e"
+yellow = "#e8c07a"
+orange = "#e8b080"
+green = "#a8c896"
+cyan = "#8ec6d6"
+blue = "#a4c8ee"
+magenta = "#d8b6c8"
+brown = "#cbbbaa"
+
+bright_red = "#f3b4a8"
+bright_yellow = "#f0d09a"
+bright_green = "#b4d0a5"
+bright_cyan = "#a2d0dd"
+bright_blue = "#bad8f4"
+bright_magenta = "#e5cad9"
+
+# ANSI slots for user theme-set hooks and terminal clients.
+color0 = "#35485c"
+color1 = "#f1ac9e"
+color2 = "#a8c896"
+color3 = "#e8c07a"
+color4 = "#a4c8ee"
+color5 = "#d8b6c8"
+color6 = "#8ec6d6"
+color7 = "#f3eadf"
+color8 = "#adbccc"
+color9 = "#f3b4a8"
+color10 = "#b4d0a5"
+color11 = "#f0d09a"
+color12 = "#bad8f4"
+color13 = "#e5cad9"
+color14 = "#a2d0dd"
+color15 = "#ffffff"
+
+hyprland_active_border = "rgb(e8b080) rgb(a4c8ee) 45deg"
+hyprland_inactive_border = "rgba(40566a88) rgba(35485ccc) 45deg"
+active_border_color = "#e8b080"
