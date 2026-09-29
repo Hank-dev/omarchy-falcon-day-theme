@@ -2,7 +2,15 @@
 
 A dusk-slate Omarchy theme paired with brighter SpaceX rocket photography. Warm flame accent (`#e8b080`), slate background (`#35485c`), and five included wallpapers.
 
-![Falcon Day preview: rocket over the water in daylight](preview.png)
+## Desktop showcase
+
+Live Omarchy screenshot with the Falcon Day wallpaper, Foot terminal, and Neovim showing the theme palette (portrait monitor; click for full size).
+
+[![Falcon Day desktop with floating terminal and palette editor](screenshots/desktop.png)](screenshots/desktop.png)
+
+Wallpaper alone:
+
+![Falcon Day wallpaper preview: rocket over the water in daylight](preview.png)
 
 ## Install
 
